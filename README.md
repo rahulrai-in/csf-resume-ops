@@ -23,11 +23,11 @@ Actions are units of code that can execute when certain GitHub events occur, suc
 Although it was just a fun project for me, DevOpsifying your résumé makes sense because:
 
 1. You get out of the box document versioning support.
-2. The latest version of the document is always available to you on your favorite site (GitHub).
+2. The latest version of the document is always available to you on your favorite website (GitHub).
 3. If someone (recruiter/client/company) asks you whether the document they have is the latest one, you only need to ask them one question (keep reading).
 4. If you get to talk about it in an interview, you will stand out! 😎
 
-I understand that there are alternatives such as CMS, saving content to cloud drives, etc. However, I prefer this approach, and any real developer who firmly believes in the [NIH philosophy](https://en.wikipedia.org/wiki/Not_invented_here) will too 😉 (an \* and some fine print here).
+I understand that there are alternatives such as CMS, saving content to cloud drives, etc. However, I prefer this approach, and any real developer who firmly believes in the [NIH philosophy](https://en.wikipedia.org/wiki/Not_invented_here) will too 😉 (an \* and some fine print here). Not just that, but by adding source control to your résumé, you can take advantage of features such as notes as commit messages for the changes that you made. The notes will help you remember the context behind recording something in your profile. For example, a simple statement such as "I improved the bug bounce rate from 20% to 10%" can carry the details in the commit message, such as what you did and why. You can look up the commits associated with any change with [`git blame` and `git log`](https://www.atlassian.com/git/tutorials/inspecting-a-repository/git-blame).
 
 ## Code
 
